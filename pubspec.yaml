@@ -1,0 +1,45 @@
+name: tmarjy_m3ak
+description: A new Flutter project.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  introduction_screen:
+  flutter_snake_navigationbar:
+  flutter_rating_bar: ^4.0.0
+  flutter_launcher_icons:
+  flutter_spinkit:
+  carousel_slider:
+  cached_network_image:
+  flutter_staggered_animations:
+  fluttertoast:
+  lottie:
+  flutter_google_maps:
+  google_maps_flutter:
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - images/
+    
+  fonts:
+    - family: Tajawal
+      fonts:
+        - asset: fonts/Tajawal-Black.ttf
+        - asset: fonts/Tajawal-Bold.ttf
+        - asset: fonts/Tajawal-ExtraBold.ttf
+        - asset: fonts/Tajawal-ExtraLight.ttf
+        - asset: fonts/Tajawal-Light.ttf
+        - asset: fonts/Tajawal-Medium.ttf
+        - asset: fonts/Tajawal-Regular.ttf
