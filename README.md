@@ -1,6 +1,6 @@
 # tmarjy_m3ak
 
-A new Flutter project.
+Marji is with you, who takes care of medical services and provides all medical facilities from providing medical services and periodic follow-ups with specialized doctors and providing all medical centers, radiology centers and pharmacies available in the range
 
 ## Getting Started
 
